@@ -17,37 +17,37 @@ Hey there! 👋 I'm [Farid Shahmursoy], a **Front-End Alchemist** 🧙‍♂️ 
 ## 🛠️ Tech Stack at a Glance
 
 <div align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+  <a style="text-decoration: none;" href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML5" height="50">
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+  <a style="text-decoration: none;" href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS3" height="50">
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <a style="text-decoration: none;" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="JavaScript" height="50">
   </a>
-  <a href="https://www.typescriptlang.org/docs/" target="_blank">
+  <a style="text-decoration: none;" href="https://www.typescriptlang.org/docs/" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="TypeScript" height="50">
   </a>
-  <a href="https://react.dev/" target="_blank">
+  <a style="text-decoration: none;" href="https://react.dev/" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React.js" height="50">
   </a>
-  <a href="https://vuejs.org/guide/introduction.html" target="_blank">
+  <a style="text-decoration: none;" href="https://vuejs.org/guide/introduction.html" target="_blank">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvsXyz8eDobC4MvaRkM3zmOZ9ETdrS0ozGCQ&s" alt="Vue.js" height="50">
   </a>
   <a href="https://tailwindcss.com/docs" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" alt="Tailwind CSS" height="50">
   </a>
-  <a href="https://code.visualstudio.com/docs" target="_blank">
+  <a style="text-decoration: none;" href="https://code.visualstudio.com/docs" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="VS Code" height="50">
   </a>
-  <a href="https://www.figma.com/resources/learn/" target="_blank">
+  <a style="text-decoration: none;"  href="https://www.figma.com/resources/learn/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1200px-Figma-logo.svg.png" alt="Figma" height="50">
   </a>
-  <a href="https://git-scm.com/doc" target="_blank">
+  <a style="text-decoration: none;" href="https://git-scm.com/doc" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="Git" height="50">
   </a>
-  <a href="https://webpack.js.org/concepts/" target="_blank">
+  <a style="text-decoration: none;" href="https://webpack.js.org/concepts/" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/webpack.svg" alt="Webpack" height="50">
   </a>
   
@@ -84,7 +84,7 @@ This repository is a curated collection of my best work, from **interactive webs
 I'm always excited to connect with like-minded creatives. Whether you're looking for a front-end expert for your next project or just want to chat about the latest web trends, hit me up!  
 
 📧 **Email:** [feridsahmur@gmail.com]  
-💼 **Portfolio:** [Your Portfolio Link]  
+💼 **Portfolio:** [https://github.com/feridshahmur/My-Portfolio.git]  
 🐦 **İnstagram:** [https://www.instagram.com/feridsahmur/]  
 🌐 **LinkedIn:** [https://www.linkedin.com/in/f%C9%99rid-%C5%9Fahmurov-267aa632a/]  
 
