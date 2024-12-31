@@ -1,7 +1,7 @@
 
 
 # 🌟 Welcome to My Digital Playground! 🌟
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/s8UHGqq9xqJmwZZtHn" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
+
 
 Hey there! 👋 I'm [Farid Shahmursoy], a **Front-End Alchemist** 🧙‍♂️ who crafts pixel-perfect magic with code. This repository is more than just files and folders; it's my **portfolio** – a reflection of my passion, creativity, and relentless drive to build **user-centric experiences**.
 
