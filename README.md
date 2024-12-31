@@ -9,7 +9,7 @@ Hey there! 👋 I'm [Farid Shahmursoy], a **Front-End Alchemist** 🧙‍♂️ 
 
 ## 🚀 About Me
 
-✨ Turning caffeine ☕ into clean, maintainable, and interactive code since [Year].  
+✨ Turning caffeine ☕ into clean, maintainable, and interactive code since 2020.  
 ✨ Champion of **responsive design**, advocate for **accessible web**, and fan of **micro-interactions**.  
 ✨ When I'm not coding, you'll find me dreaming up new ideas or exploring the latest front-end trends.  
 
